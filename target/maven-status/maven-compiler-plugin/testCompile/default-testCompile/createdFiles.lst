@@ -1,0 +1,8 @@
+tests\HomePageTests.class
+tests\ContactUsTests.class
+tests\InventoryTests.class
+tests\LoginTests.class
+tests\InternalProductPageTests.class
+tests\RegisterTests.class
+tests\NavigationBarTests.class
+tests\FooterTests.class
